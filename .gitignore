@@ -1,3 +1,20 @@
 .ipynb_checkpoints/
 .virtual_documents/
 Rapel/rapel_SRTMGL130m_dem_utm.tif
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Large raster files
+*.tif
