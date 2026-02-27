@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="2">
+            <IconStyle id="3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="4">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="6">
+            <name>CT-1</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="5">
+                <coordinates>-71.045314,-35.259864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>CT-2</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="7">
+                <coordinates>-72.06705,-35.038831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10">
+            <name>CT-3</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="9">
+                <coordinates>-71.946719,-35.100381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12">
+            <name>CT-4</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="11">
+                <coordinates>-71.487019,-35.027689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14">
+            <name>CT-5</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="13">
+                <coordinates>-71.359939,-34.962639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16">
+            <name>CT-6</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="15">
+                <coordinates>-71.3427,-34.984889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>CT-7</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="17">
+                <coordinates>-70.827531,-35.003553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20">
+            <name>CT-8.2</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="19">
+                <coordinates>-71.647745,-35.092222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22">
+            <name>CT-9</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="21">
+                <coordinates>-72.101111,-35.046389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <name>CT-10</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="23">
+                <coordinates>-71.55,-35.049444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26">
+            <name>CT-11</name>
+            <description>nan</description>
+            <styleUrl>#2</styleUrl>
+            <Point id="25">
+                <coordinates>-71.610278,-35.064167,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
