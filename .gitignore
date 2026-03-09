@@ -18,3 +18,4 @@ __pycache__/
 
 # Large raster files
 *.tif
+.claude/
